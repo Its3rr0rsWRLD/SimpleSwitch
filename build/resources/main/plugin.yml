@@ -1,0 +1,18 @@
+name: SimpleSwitch
+version: '1.0.0'
+
+main: org.error.simpleSwitch.SimpleSwitch
+api-version: '26.2'
+load: POSTWORLD
+
+commands:
+  ss:
+    description: Global Server-Wide World Switcher
+    permission: simpleswitch.admin
+    usage: /<command> <create|save|load> [world_name]
+    aliases: [simpleswitch]
+
+permissions:
+  simpleswitch.admin:
+    description: Allows use of the SimpleSwitch commands
+    default: op

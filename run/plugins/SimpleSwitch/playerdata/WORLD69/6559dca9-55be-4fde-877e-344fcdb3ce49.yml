@@ -1,0 +1,89 @@
+inventory:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+enderchest:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+health: 20.0
+food: 20
+level: 0
+exp: 0.0
+gamemode: SURVIVAL
+location:
+  world: WORLD69
+  x: 48.0
+  y: 80.0
+  z: 224.0
+  yaw: -27.15
+  pitch: 29.250004
+flying:
+  allow_flight: false
+  is_flying: false
+  fly_speed: 0.1
+  walk_speed: 0.2
