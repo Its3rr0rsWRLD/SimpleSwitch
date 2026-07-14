@@ -25,3 +25,14 @@ replay_pid*
 
 # Server runtime directory
 run/
+ 
+# Environment variables  
+.env 
+publish.py
+publish.bat
+requirements.txt
+/.gradle
+/.gradle
+/build
+/__pycache__
+/.gradle
